@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="conta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Extra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Extrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaqueDeposTrans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SenhaNova.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="T:\Publica\TURMA_TI48N\A.Graciolli\forms Jucas Bank\jucas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
